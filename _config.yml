@@ -22,17 +22,17 @@ url: 'https://Yoon6.github.io'
 
 author: yoon                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/my_photo.jpg   # support internet resources
 
 github:
   username: Yoon6             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+  #username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Daeyoon Choi                  # it will shows as the copyright owner in Footer
+  email: yoonda5898@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
