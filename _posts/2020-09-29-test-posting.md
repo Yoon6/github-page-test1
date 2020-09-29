@@ -17,7 +17,7 @@ tags: [test]     # TAG names should always be lowercase
 
 ## 3332
 
-테스트 테스트 
+- 테스트 테스트 
 
 ```c
 int main(){
